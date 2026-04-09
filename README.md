@@ -23,13 +23,16 @@ A simple and responsive Task Manager (To-Do Application) built using React.js. T
 ---
 
 ## 📂 Project Structure
+
 TaskManager/
+
 │── TaskManager.jsx
 │── TaskManager.css
 
 ---
 
-##👨‍💻 Author
+👨‍💻 Author
+
 Sarthak Kaushal
 BTech CSE (Big Data) | Aspiring Software Developer
 
