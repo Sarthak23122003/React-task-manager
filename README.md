@@ -32,7 +32,7 @@ TaskManager/
 
 ---
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Sarthak Kaushal
 
