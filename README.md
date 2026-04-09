@@ -27,5 +27,9 @@ TaskManager/
 │── TaskManager.jsx
 │── TaskManager.css
 
+👨‍💻 Author
+Sarthak Kaushal
+BTech CSE (Big Data) | Aspiring Software Developer
+
 ---
 
